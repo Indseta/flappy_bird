@@ -3,7 +3,7 @@ from system.application import Application
 
 
 def main():
-    application = Application(1200, 600)
+    application = Application(500, 800)
     application.main()
 
 

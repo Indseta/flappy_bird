@@ -1,0 +1,13 @@
+{
+    "title": "Flappy bird",
+    "version": "0.1.0",
+    "description": "",
+    "authors": [
+        "Dong Nguyen (Original)",
+        "Ask"
+    ],
+    "system": {
+        "resources": "resources",
+        "icon": "textures/icon.png"
+    }
+}
