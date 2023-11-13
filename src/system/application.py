@@ -26,7 +26,7 @@ class Application:
         pygame.display.set_icon(pygame.image.load(f"{self.resources}/{details["system"]["icon"]}"))
 
         self.frame_info = FrameInfo(self.screen)
-        self.frame_info.max_fps = 90
+        self.frame_info.max_fps = 80
 
         self.objects = {}
 

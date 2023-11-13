@@ -98,7 +98,7 @@ class Pipe(Sprite):
         self.placement = Vector2(self.screen_size.x, randint(200, 520))
         self.translation = Vector2(self.placement.x, 0)
 
-        self.velocity = Vector2(-200, 0)
+        self.velocity = Vector2(-180, 0)
 
         self.frame_index = 0
 
